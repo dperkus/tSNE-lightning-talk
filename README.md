@@ -5,7 +5,7 @@
 
 Presented at Metis Alumni Meetup 4/27/17
 
-PCA is one of the most commonly used Dimensionality Reduction algorthims.  It is easy to use, fast, and often provides good results.  But for some datasets, especially those with nonlinear relationships or highly variable regional densities, PCA does not work so well.  In those cases, you should try t-SNE
+PCA is one of the most commonly used Dimensionality Reduction algorithms.  It is easy to use, fast, and often provides good results.  But for some datasets, especially those with nonlinear relationships or highly variable regional densities, PCA does not work so well.  In those cases, you should try t-SNE
 
 Here some links to help you get started:
 * My lightning talk presentation: [https://github.com/dperkus/tSNE-lightning-talk/blob/master/t-SNE17-04.pdf]
